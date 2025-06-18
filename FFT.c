@@ -1,5 +1,5 @@
 #include<stdlib.h>
-#include "include/FFT.h"
+#include "FFT.h"
 #include <math.h>
 #include<stdio.h>
 Complex* fft(Complex* input ,int n)
